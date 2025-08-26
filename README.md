@@ -33,11 +33,13 @@
 
 | Project | Description | Tech Stack | 
 |---------|-------------|------------|
-| **IT Portal** | Company asset management system | ASP.NET Core, MySQL | 
-| **Smart Board Key** | Security solution for schools | C#, WPF, Arduino |
+| **IT Portal** | Company asset management system | ASP.NET Core, MySQL, .NET Core Cookie, JQuery | 
+| **Smart Board Key** | Security solution for schools | C#, WPF, ASP.NET Core, MySQL, .NET Core Cookie, JQuery  |
 | **8192 Game** | Math puzzle game | Java, Android |
-| **Archive Number** | Simple contact manager | Java, Firebase |
-| **[Coin Flip](https://github.com/samiyusufbal/YaziTura)** | Digital coin flip game | Java, Firebase |
+| **Archive Number** | Simple contact manager | Java, Firebase, Android |
+| **[Coin Flip](https://github.com/samiyusufbal/YaziTura)** | Digital coin flip game | Java, Firebase, Android |
+| **[FreeNest](https://github.com/samiyusufbal/FreeNest)** | Open-source alternative to LinkTree for sharing important links | .NET Core, JQuery, MySQL, .NET Core Cookie, JQuery |
+| **[QuickBoard](https://github.com/samiyusufbal/QuickBoard)** | Custom homepage for organizing daily links | HTML, CSS, JQuery |
 
 ---
 
